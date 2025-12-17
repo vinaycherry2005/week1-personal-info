@@ -1,0 +1,6 @@
+Name: Alex Johnson
+Age: 22
+City: San Francisco
+Hobby: Playing guitar
+Favorite Food: Pizza
+Favorite Color: Blue
